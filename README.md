@@ -2,7 +2,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+Before to run server:
+install: 
+```bash
+npm install
+```
+intall pytyhon 3.11 or 3.17
+```bash
+cd ./backend
+```
+for load all data from backend
+```bash
+uvicorn main:app --reload
+```
 First, run the development server:
 
 ```bash
