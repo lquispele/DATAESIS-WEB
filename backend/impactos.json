@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5,
+    "titulo": "b",
+    "categoria": "sda",
+    "slug": "b",
+    "imagenUrl": null,
+    "fecha": "2025-06-23"
+  },
+  {
+    "id": 4,
+    "titulo": "noasndosand",
+    "categoria": "ds",
+    "slug": "noasndosand",
+    "imagenUrl": null,
+    "fecha": "2025-06-23"
+  },
+  {
+    "id": 3,
+    "titulo": "C",
+    "categoria": "ASDA",
+    "slug": "c",
+    "imagenUrl": "/dataesis.jpg",
+    "fecha": "2025-06-23"
+  },
+  {
+    "id": 2,
+    "titulo": "B",
+    "categoria": "ASDA",
+    "slug": "b",
+    "imagenUrl": null,
+    "fecha": "2025-06-23"
+  },
+  {
+    "id": 1,
+    "titulo": "A",
+    "categoria": "INNOVACION",
+    "slug": "a",
+    "imagenUrl": null,
+    "fecha": "2025-06-23"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6,
+    "titulo": "vsvvd",
+    "descripcion": "vvddsv",
+    "slug": "vsvvd",
+    "imagenUrl": "/dataesis.jpg",
+    "fecha": "2025-06-22"
+  },
+  {
+    "id": 5,
+    "titulo": "ono123",
+    "descripcion": "asdfdsf",
+    "slug": "ono123",
+    "imagenUrl": "/public/dataesis.jpg",
+    "fecha": "2025-06-22"
+  },
+  {
+    "id": 4,
+    "titulo": "ono2",
+    "descripcion": "asdpomasodm",
+    "slug": "ono2",
+    "imagenUrl": "https://ibb.co/GvNqVvVb",
+    "fecha": "2025-06-22"
+  },
+  {
+    "id": 3,
+    "titulo": "aron",
+    "descripcion": "isjnv0nwg09n42ovw",
+    "slug": "aron",
+    "imagenUrl": null,
+    "fecha": "2025-06-21"
+  },
+  {
+    "id": 2,
+    "titulo": "aronquito ono 2",
+    "descripcion": "nkjndvkdsvkjnsdvkjn",
+    "slug": "aronquito-ono-2",
+    "imagenUrl": null,
+    "fecha": "2025-06-21"
+  },
+  {
+    "id": 1,
+    "titulo": "ononoo",
+    "descripcion": "ono23",
+    "slug": "ononoo",
+    "imagenUrl": null,
+    "fecha": "2025-06-21"
+  }
+]
